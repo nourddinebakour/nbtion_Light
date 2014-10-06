@@ -23,7 +23,7 @@
           <key>foreground</key>
           <string>#000000</string>
           <key>background</key>
-          <string>#f8f8f8</string>
+          <string>#FFFFFF</string>
           <key>caret</key>
           <string>#000000</string>
           <key>lineHighlight</key>
