@@ -1,7 +1,7 @@
-nbtion_Light
+nourddine_light
 ============
 
-nbtion_Light.tmTheme
+nourddine_light.tmTheme
 
 This is a best light theme four multi programming language 
 --------------------------------------------------------------------
